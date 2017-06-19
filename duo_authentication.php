@@ -5,7 +5,7 @@
 * This plugin enables Duo passcode authentication within Roundcube webmail against 
 * the Duo Security web service API.
 *
-* @author Georgios Vlachos <george@intermobilis.com>
+* @author Georgios Vlachos <george (at) intermobilis.com>
 * @license GPL2
 *
 * Acknowledgement:
